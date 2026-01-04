@@ -1,3 +1,3 @@
-module main
+module github.com/evgzor/gactions/actions
 
-go 1.20
+go 1.25.0
